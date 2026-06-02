@@ -12,7 +12,6 @@ The project identifies emotions such as **Happy, Sad, Angry, Neutral, Surprise, 
 - Facial emotion recognition using trained deep learning model
 - Live prediction display on video stream
 - Simple and easy-to-run project structure
-- Pre-trained model included
 
 ---
 
